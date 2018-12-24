@@ -15,3 +15,21 @@ The project implements an image stitcher that uses image warping and homographie
 6) After obtaining the warped image, Stitch the two images together to from a Mosaic.
 
 ## Test cases:
+
+### one:
+#### Input
+![input images](./ReadMe_tests/test.png)
+
+#### Output
+![output images](./ReadMe_tests/output.png)
+
+### Two
+![input images](./ReadMe_tests/test2.png)
+
+#### Output
+![output images](./ReadMe_tests/output2.png)
+
+### PS:
+ All functions are impelmented and OpenCv was only used to check our functions are behaving correctly, We conduct a comparison between our output and that of OpenCv.
+
+ We have attached A report as well that explains the code and the assumptions we build the code upon in detail.
